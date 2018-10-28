@@ -8,3 +8,11 @@ Python fun and mini projects repo
   <li> Read an image or video stream with open cv </li>
   <li> Then pass the image to cascade.detectMultiScale function </li>
  </ul>
+ 
+ <h2><a href="https://github.com/Sohaib90/Real-Python-mini-projects/tree/master/Practical-text-Classification"> Text Classification and Word Embeddings with Python </a> </h2>
+ <ul>
+  <li> Used Bag of Words Approach: CountVectorizer </li>
+  <li> Used Word Embedding with neural networks: Tokenizer+Neural Network </li>
+  <li>used Convolutional Neural Networks for the mdoel </li>
+ </ul>
+ 
